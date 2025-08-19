@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.ipynb_checkpoints
+
+# Virtual environments
+.env
+.venv
+venv/
+ENV/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Data (ignore all except small samples)
+data/*.csv
+!data/sample.csv
+# !data/tagged_description.txt   # Uncomment if you want to keep this file in repo
+
+# Chroma database and embeddings
+*.chroma/
+chroma/
+
+# Jupyter notebooks
+*.ipynb
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
