@@ -1,4 +1,4 @@
-# 📚 Book Recommender 
+# 📚 Book Recommender
 
 <p align="center">
   <img src="./images/image_book_recommender.png" alt="Book Recommender Demo" width="800"/>
